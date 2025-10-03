@@ -2,7 +2,7 @@ A simple CRUD (Create, Read, Update, Delete) application built with React and Ax
  API.
 This project demonstrates how to interact with REST APIs in a React app while managing user data.
 
-🌐 Live Demo: Click here
+🌐 Live Demo: https://jignesh-crud-reactjs.netlify.app/
 
 ✨ Features
 
